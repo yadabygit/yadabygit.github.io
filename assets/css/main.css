@@ -1310,6 +1310,12 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
+			#header .logo .logo-image {
+				width: 80%;
+				height: 80%;
+				vertical-align: middle;
+			}
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
