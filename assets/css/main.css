@@ -1311,9 +1311,8 @@ input, select, textarea {
 			}
 
 			#header .logo .logo-image {
-				width: 80%;
-				height: 80%;
-				vertical-align: middle;
+				width: 100%;
+				height: 100%;
 			}
 
 		#header .content {
